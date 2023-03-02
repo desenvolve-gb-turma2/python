@@ -1,7 +1,7 @@
 def fibonacci (e: int):
     sequencia = []
     
-    if e == 0 or 1:
+    if e == 0 or e == 1:
         return "1" #coloquei o número 1 pra não retornar a lista vazia
     
     sequencia = [1,1] #valores iniciais da sequencia seguindo o exemplo usando 1 e 1 ao invés de 0 e 1

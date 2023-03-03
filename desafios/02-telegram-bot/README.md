@@ -12,11 +12,10 @@ O projeto é livre, e você devera usar sua criatividade para decidir as funcion
 ## Exemplo
 O exemplo a seguir simula um bot simples usando a API ![Chuck Norris](https://api.chucknorris.io/). 
 <br>
-Comando para o bot. Assuma que o seguinte comando foi efetuado para o bot no Telegram
+ Assuma que o seguinte comando foi efetuado para o bot no Telegram
 ```bash
 !joke
 ```
-<br>
 Resposta do bot:
 ```bash
 All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.

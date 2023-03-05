@@ -1,16 +1,16 @@
 # Bot para Telegram
 
-Nesse desafio nossa intenção é que vocÊ desenvolva um bot para Telegram utilizando a linguagem Python, esse cenário vai te colocar em prova com algumas demandas importantes de um programador, que vão além da capacidade de codificação: entender arquiteturas e saber como acoplar os pedaços para realizar uma tarefa desejada. O projeto é livre, e você devera usar sua criatividade para novas funcionalidades para seu bot.
+Nesse desafio a intenção é que você desenvolva um bot para Telegram utilizando a linguagem Python, esse cenário vai te colocar em prova com algumas demandas importantes de um programador, que vão além da capacidade de codificação: entender arquiteturas e saber como acoplar os pedaços para realizar uma tarefa desejada. O projeto é livre, e você poderá usar sua criatividade para novas funcionalidades para seu bot.
 
 ### O que fará esse bot?
 A ideia é criar um bot que seja capaz de interpretar suas mensagens enviadas ao telegram para criar uma resposta personalizada, seja ela uma simples piada, como o exemplo a seguir, ou até uma informação relevante como a previsão do tempo.
 
 ### Direcionamento para o desenvolvedor
-1. Crie um bot através do bot BotFather, do Telegram, ele é um super bot, pai de todos os outros da plataforma, é também através dele que você poderá personalizar uma série funções da sua criação. Veja mais detalhes na documentação oficial: https://core.telegram.org/bots/features#botfather
-<img src="./falando-com-botfather.svg">
-2. Com token de acesso em mãos é hora de codificar sua solução! Use exemplos da internet para tomar como base e use também essa documentação com o tutorial da criação de um bot em Java: https://core.telegram.org/bots/tutorial, mas fique tranquilo, apesar da documentação estar em Java há também um exemplo de código fornecido em [Python](https://gitlab.com/Athamaxy/telegram-bot-tutorial/-/blob/main/TutorialBot.py)! 
-3. Para não se perder e conferir se está no caminho certo confira o diagrama de funcionamento da aplicação:
-<img src="./diagrama.svg">
+1- Crie um bot através do bot BotFather, do Telegram, ele é um super bot, pai de todos os outros da plataforma, é também através dele que você poderá personalizar uma série funções da sua criação. Veja mais detalhes na documentação oficial: https://core.telegram.org/bots/features#botfather   
+<img src="./falando-com-botfather.svg">   
+2- Com token de acesso em mãos é hora de codificar sua solução! Use exemplos da internet para tomar como base e use também essa documentação com o tutorial da criação de um bot em Java: https://core.telegram.org/bots/tutorial, mas fique tranquilo, apesar da documentação estar em Java há também um exemplo de código fornecido em [Python](https://gitlab.com/Athamaxy/telegram-bot-tutorial/-/blob/main/TutorialBot.py)!   
+3- Para não se perder e conferir se está no caminho certo confira o diagrama de funcionamento da aplicação:   
+<img src="./diagrama.svg">   
 
 ### O bot deve atender aos seguintes requisitos:
 * Usuários devem ser capazes de adicionar seu bot ao telegram deles

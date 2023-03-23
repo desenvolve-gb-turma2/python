@@ -33,5 +33,3 @@ for teste in range(1, numero_casos_teste + 1):
 
     print(f"Serão necessários {numero_leds} leds!")
 
-
-print("Obrigado por utilizar nosso programa!")
